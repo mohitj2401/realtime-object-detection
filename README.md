@@ -4,7 +4,9 @@
 ## To solve this issue replace this function declaration to 
 ````
  override fun onRequestPermissionsResult(requestCode: Int, permissions: Array<out String>,grantResults: IntArray):
-form 
+ ````
+## form 
+````
  override fun onRequestPermissionsResult(requestCode: Int, permissions: Array<out String>?,grantResults: IntArray?):
 ````
 # realtime_obj_detection
