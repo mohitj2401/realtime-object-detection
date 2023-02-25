@@ -2,9 +2,9 @@
 <img src="issue_image.png" />
 
 ## To solve this issue replace this function declaration to 
-override fun onRequestPermissionsResult(requestCode: Int, permissions: Array<out String>,grantResults: IntArray):
+# override fun onRequestPermissionsResult(requestCode: Int, permissions: Array<out String>,grantResults: IntArray):
 form 
-override fun onRequestPermissionsResult(requestCode: Int, permissions: Array<out String>?,grantResults: IntArray?):
+# override fun onRequestPermissionsResult(requestCode: Int, permissions: Array<out String>?,grantResults: IntArray?):
 
 # realtime_obj_detection
 
