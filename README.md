@@ -1,6 +1,9 @@
 # Issue
 <img src="issue_image.png" />
 
+# For Support Flutter 3v
+Checkout Branch v3
+
 ## To solve this issue replace this function declaration to 
 ````
  override fun onRequestPermissionsResult(requestCode: Int, permissions: Array<out String>,grantResults: IntArray):
