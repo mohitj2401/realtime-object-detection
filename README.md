@@ -1,6 +1,6 @@
 # Realtime Object Detection App
 
-![](https://github.com/mohitj2401/weather-app/blob/master/realtime_obj_detection.GIF)
+![](https://github.com/mohitj2401/realtime-object-detection/blob/master/realtime_obj_detection.gif)
 
 ## :dart: About ##
 
